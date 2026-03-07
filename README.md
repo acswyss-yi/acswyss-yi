@@ -12,5 +12,5 @@ Building production-grade systems at the intersection of **finance** and **AI**.
 
 ## Links
 
-- LinkedIn: [in/yi-ding-797591373](https://www.linkedin.com/in/yi-ding-797591373)
+- LinkedIn: [in/yi-ding](https://www.linkedin.com/in/yi-ding-797591373)
 
