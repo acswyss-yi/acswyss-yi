@@ -10,3 +10,7 @@ Building production-grade systems at the intersection of **finance** and **AI**.
 
 > *Turning financial domain expertise into intelligent, AI-driven products.*
 
+## Links
+
+- LinkedIn: [in/yi-ding-797591373](https://www.linkedin.com/in/yi-ding-797591373)
+
