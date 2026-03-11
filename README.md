@@ -1,6 +1,6 @@
-# Hi, I'm Yi 👋
+### Hi, I'm Yi 👋
 
-🏦 **FinTech Backend → AI Application Engineer**
+**FinTech Backend → AI Application Engineer**
 
 Building production-grade systems at the intersection of **finance** and **AI**.
 
@@ -10,7 +10,7 @@ Building production-grade systems at the intersection of **finance** and **AI**.
 
 > *Turning financial domain expertise into intelligent, AI-driven products.*
 
-## Links
+### Links
 
 - LinkedIn: [in/yi-ding](https://www.linkedin.com/in/yi-ding-797591373)
 
